@@ -9,8 +9,7 @@ const AuthorCard = () => {
         <a href="#">Christine Eve</a>
       </h3>
       <p>
-        Lorem Ipsum is simply dummy text of the rinting and typesetting been the
-        industry standard dummy text ever sincer nullam condimentum purus.
+        KAVAN IS A CREATIVE AGENCY FOCUSED ON GROWING YOUR BUSINESS ONLINE.
       </p>
       <a href="#">View all posts</a>
     </div>
