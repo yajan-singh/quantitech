@@ -91,8 +91,8 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -100,8 +100,8 @@ export const SliderOneData = [
   },
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -116,8 +116,8 @@ import sliderTwo03 from "@/images/slider/2_3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -125,8 +125,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -134,8 +134,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -149,8 +149,8 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB\n DESIGN AGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -158,8 +158,8 @@ export const SliderThreeData = [
   },
   {
     image: sliderThree02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB\n DESIGN AGENCY.",
+    subTitle: "WELCOME TO QUANTITECH",
+    title: "SOFTWARE SOLUTIONS AGENCY",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
