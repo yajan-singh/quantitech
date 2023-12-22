@@ -477,33 +477,33 @@ export const PortfolioDetailsData = {
 
 export const ServicePostData = [
   {
-    title: "Modren Design",
+    title: "Custom Software",
     text:
-      "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
+      "Tailored software that drives your business forward. Explore custom solutions that are as unique as your challenges.",
     iconName: "mei-settings",
     url: "/service-details",
   },
   {
-    title: "Digital products",
+    title: "Enterprise \n Solutions",
     text:
-      "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
+      "Robust systems for complex business needs. Discover scalable and secure enterprise solutions that support growth.",
     iconName: "mei-transfer",
     url: "/service-details",
   },
   {
-    title: "Marketing Strategy",
+    title: "Tech-Driven \nMarketing",
     text:
-      "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
+      "Innovative marketing through technology. Learn how data and digital tools can amplify your brand's impact.",
     iconName: "mei-pie-chart",
     url: "/service-details",
   },
 ];
 
 export const ServiceHomeTwoData = {
-  subTitle: "welcome to smart meipaly web agency",
-  title: "We design digital products that \n help grow businesses.",
+  subTitle: "Welcome to Quantitech Solutions",
+  title: "Where innovative software solutions meet \nreal-world challenges.",
   text:
-    "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+    "Our team is dedicated to designing and developing cutting-edge software \nthat empowers business to achieve more.",
 };
 
 export const ServiceHomeThreeData = {
